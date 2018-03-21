@@ -6,10 +6,9 @@ categories: jekyll update
 comments: true
 ---
 
+I hope you keep getting inspired just the way I do. Go through my posts and leave your comments. Lets look at the positive side in life and keep getting motivated to do more.
 
-ytgjutyklhl
 
-![depositphotos_21239575_s-2015](https://user-images.githubusercontent.com/36836476/37584318-0546b5aa-2b7b-11e8-9770-c151eb6ea233.jpg)
 
 {% if page.comments %}
 <div id="disqus_thread"></div>
