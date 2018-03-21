@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "my first hjnskdm"
+title:  "Get Inspired"
 date:   2018-03-19 13:30:05 +0530
 categories: jekyll update
 comments: true
