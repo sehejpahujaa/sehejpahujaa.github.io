@@ -3,6 +3,7 @@ layout: post
 title:  "Little but Large"
 date:   2018-03-19 13:30:05 +0530
 categories: jekyll update
+comments: true
 ---
 On a Sunday while everybody is busy spending money on expensive restaurants and theatres, one would wonder what people of the slum do. You probably think they do not have money so they sit at home or work to save extra. However, on a crowded Sunday evening at Versova beach(Mumbai, India), I chose to visit the slum area and find their meaning of happiness. While kids played cricket and ran around among themselves, women came out and sat near the sea. There was a positive energy around, with the environment filled with fun and frolic. Since everybody seemed to be having a good time, i chose to celebrate them by choosing them as my subject. I realised how they have "Little" in their life to be grateful for, but how "large" and full of love their heart is.
 
